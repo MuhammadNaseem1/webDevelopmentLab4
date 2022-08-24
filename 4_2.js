@@ -1,0 +1,12 @@
+let string="12";
+console.log(parseInt(string));
+console.log(typeof(parseInt(string)));
+let str1="12.5";
+console.log(parseInt(str1));
+console.log(parseFloat(str1));
+console.log(typeof parseFloat(str1));
+console.log(typeof Number(str1));
+let a=Number("123Na");
+console.log(a);
+let va=parseInt('12ANC');
+console.log(va);

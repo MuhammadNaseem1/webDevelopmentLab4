@@ -1,0 +1,10 @@
+let interger=12;
+let float=12.5;
+let boolean=true;
+let String="Hello world";
+let Date=12/12/2020;
+let Undefined=undefined;
+let Arrayinterger=[1,2,3,4,5,6];
+let ArrayString=["Hello","Sheeraz","I"];
+let ArrayMixed=["Umair",1,2,true,undefined,12.5,12/12/2021];
+let object={id:1,Name:"ABC"};

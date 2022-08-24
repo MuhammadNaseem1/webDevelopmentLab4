@@ -1,0 +1,15 @@
+checkOdd_Even=(num)=>
+{
+    if(num%2==0)
+    {
+        console.log("Even");
+    }
+    else
+    {
+        console.log("ODD");
+    }
+}
+checkOdd_Even(12);
+checkOdd_Even(11);
+checkOdd_Even(13);
+checkOdd_Even(14);
